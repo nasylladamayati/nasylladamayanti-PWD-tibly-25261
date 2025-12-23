@@ -7,4 +7,3 @@ Nasylla Damayanti<br>
 belajar:
 <ol>
 <li>copy index.html pertemuan-02 ke index.html pertemuan-03</li>
-<li>copy index.html pertemuan-02 ke index.html pertemuan-03</li>
