@@ -1,9 +1,8 @@
 # pertemuan-03
 
-pada hari ini, jumat, 23 Desember 2025, saya yang bernama:<br>
-Nasylla Damayanti<br>
-NIM : 2511530019<br>
-<br>
-belajar:
+NIM  : 2511530019<br>
+Nama : Nasylla Damayanti<br><br>
+
+Hari ini, Selasa 23 Desember 2025, saya belajar:
 <ol>
-<li>
+<li>menggunakan file index.html pertemuan-02 untuk file index.html pertemuan-03</li>
