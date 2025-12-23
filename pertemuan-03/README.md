@@ -6,4 +6,4 @@ Nasylla Damayanti<br>
 <br>
 belajar:
 <ol>
-<li>menggunakan file index.html pertemuan-02 untuk file index.html pertemuan-03</li>
+<li>copy index.html pertemuan-02 ke index.html pertemuan-03</li>
