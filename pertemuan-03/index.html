@@ -148,16 +148,16 @@
         </section>
         <section id="contact">
             <h2>Kontak Kami</h2>
-            <form action="" method="POST">
-              <label for="txtnama">Nama:</label>
-              <input type="txtnama" id="txtnama" required placeholder="isi nama lengkap" type="text">
-
-              <label for="txtnama">Email:</label>
-              <input type="txtnama" id="txtemail" required placeholder="isi email" type="email">
-
-              <label for="txtpesan">Pesan:</label>
-              <textarea rows="5" name="txtpesan" id="txtpesan" required placeholder="isi pesan"></textarea>
-
+            <form action="" method="GET">
+              <label for="txtnama"><span>Nama:</span>
+              <input type="text" id="txtnama" placeholder="Masukkan nama" required autocomplete="name">
+              </label>
+              <label for="txtEmail"><span>Email:</span>
+              <input type="email" id="txtemail" name="txtemail" placeholder="Masukkan email" required autocomplete="email">
+              </label>
+              <label for="txtpesan"><span>Pesan anda:</span>
+              <textarea id="txtpesan" name="txtpesan" rows="4" placeholder="Tulis pesan anda..." required></textarea>
+              </label>
               <button type="submit">Kirim</button>
               <button type="reset">Batal</button>
              </from>
