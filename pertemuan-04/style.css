@@ -5,7 +5,7 @@
      body {
         margin: 0;
         font-family: Arial, sans-serif;
-        background: #FFFFFF;
+        background: #7c366b;
         color: #660046;
         line-height: 1.5;
      }
@@ -73,7 +73,7 @@
         #contact input,
         #contact textarea {
           flex: 1;
-          border: 1px solid #ccc;
+          border: 1px solid #660046;
           border-radius: 6px;
           padding: 8px;
           color: #000;
