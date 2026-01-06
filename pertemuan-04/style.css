@@ -12,7 +12,7 @@
       
       #about,
       #contact {
-        background-color: #660046;
+        background-color: #ffffff;
         border-radius: 10px;
         padding: 20px;
         max-width: 700px;
@@ -36,7 +36,7 @@
         align-items: baseline;
         margin: 0;
         padding: 6px 0;
-        border-bottom: 1px solid #7c366b;
+        border-bottom: 1px solid #e6e6e6;
       }
 
       #about strong,
@@ -73,7 +73,7 @@
         #contact input,
         #contact textarea {
           flex: 1;
-          border: 1px solid #660046;
+          border: 1px solid #ccc;
           border-radius: 6px;
           padding: 8px;
           color: #000;
