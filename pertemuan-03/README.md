@@ -16,3 +16,15 @@ belajar:
 <li>membuat styling untuk selector ID #about elemen strong</li>
 <li>membuat styling untuk selector ID #about mode responsif (mobile)</li>
 <li>styling untuk perangkat lebar layar maksimum 600px</li>
+<li>section#contact pengelompokan selector(selector gruping)</li>
+<li>section#contact pengelompokan selector(selector gruping) h2</li>
+<li>section#contact upgrade struktur form</li>
+<li>section#contact styling label</li>
+<li>section#contact styling label>span</li>
+<li>section#contact styling input dan textarea</li>
+<li>section#contact styling tombol/button</li>
+<li>section#contact styling warna tombol</li>
+<li>section#contact styling hover tombol</li>
+<li>section#contact styling label dan label>span</li>
+<li>section#contact styling input, textarea, button</li>
+</ol>
