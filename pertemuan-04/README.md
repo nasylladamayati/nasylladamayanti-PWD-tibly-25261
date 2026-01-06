@@ -11,4 +11,4 @@ Hari ini, Rabu 06 Desember 2026, saya mempelajari:
 <li>styling header</li>
 <li>styling section#home</li>
 <li>styling footer</li>
-</ol>
+<li>styling navigasi</li>
