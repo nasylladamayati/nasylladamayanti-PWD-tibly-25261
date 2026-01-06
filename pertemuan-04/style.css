@@ -89,6 +89,14 @@
         transform: translateY(1px);
       }
 
+      @media (max-width: 600px) {
+        header {
+            padding: 16px;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
       #about strong,
       #contact label>span {
         min-width: 180px;
