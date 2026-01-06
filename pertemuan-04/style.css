@@ -6,13 +6,13 @@
         margin: 0;
         font-family: Arial, sans-serif;
         background: #FFFFFF;
-        color: #FFFFFF;
+        color: #660046;
         line-height: 1.5;
      }
       
       #about,
       #contact {
-        background-color: #FFFFFF;
+        background-color: #660046;
         border-radius: 10px;
         padding: 20px;
         max-width: 700px;
