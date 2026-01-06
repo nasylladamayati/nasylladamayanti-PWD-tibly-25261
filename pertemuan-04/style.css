@@ -23,7 +23,7 @@
       #about h2,
       #contact h2 {
         color: #660046;
-        border-bottom: 2px solid #660030;
+        border-bottom: 2px solid #660046;
         padding-bottom: 6px;
         margin-top: 0;
         margin-bottom: 16px;
@@ -42,7 +42,7 @@
       #about strong,
       #contact label>span {
         min-width: 180px;
-        color: #a31983;
+        color: #660046;
         font-weight: 600;
         text-align: right;
         padding-right: 16px;
@@ -73,10 +73,10 @@
         #contact input,
         #contact textarea {
           flex: 1;
-          border: 1px solid #7e3057;
+          border: 1px solid #ccc;
           border-radius: 6px;
           padding: 8px;
-          color:rgb(101, 31, 83);
+          color: #000;
           font-weight: normal;
           margin: 0;
           box-sizing: border-box;
@@ -95,13 +95,13 @@
         }
 
         #contact button[type="submit"] {
-          background-color: rgb(214, 26, 114);
+          background-color: #660046;
           color:#FFFFFF;
           font-weight: 600;
         }
 
         #contact button[type="reset"] {
-          background-color: #ea0909d8;
+          background-color: #dc1818;
           color: #FFFFFF;
           font-weight: 600;
         }
