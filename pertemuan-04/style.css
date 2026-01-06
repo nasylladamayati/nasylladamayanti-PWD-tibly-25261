@@ -36,7 +36,7 @@
         align-items: baseline;
         margin: 0;
         padding: 6px 0;
-        border-bottom: 1px solid #706c6f;
+        border-bottom: 1px solid #7c366b;
       }
 
       #about strong,
@@ -73,10 +73,10 @@
         #contact input,
         #contact textarea {
           flex: 1;
-          border: 1px solid #5b5558;
+          border: 1px solid #7e3057;
           border-radius: 6px;
           padding: 8px;
-          color:rgb(100, 89, 97);
+          color:rgb(101, 31, 83);
           font-weight: normal;
           margin: 0;
           box-sizing: border-box;
