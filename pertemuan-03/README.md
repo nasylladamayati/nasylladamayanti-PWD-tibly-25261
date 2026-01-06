@@ -11,3 +11,4 @@ belajar:
 <li>mengisi section contact dengan emmet abbreviation</li> 
 <li>melengkapi atribut form</li>
 <li>membuat styling untuk selector ID #about</li>
+<li>membuat styling untuk selector ID #about elemen h2</li>
