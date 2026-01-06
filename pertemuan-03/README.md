@@ -12,3 +12,4 @@ belajar:
 <li>melengkapi atribut form</li>
 <li>membuat styling untuk selector ID #about</li>
 <li>membuat styling untuk selector ID #about elemen h2</li>
+<li>membuat styling untuk selector ID #about elemen p</li>
