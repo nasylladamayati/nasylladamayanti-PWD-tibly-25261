@@ -5,7 +5,7 @@
      body {
         margin: 0;
         font-family: Arial, sans-serif;
-        background: #7c366b;
+        background: #ffffff;
         color: #660046;
         line-height: 1.5;
      }
@@ -107,7 +107,7 @@
         }
 
         #contact button[type="submit"]:hover {
-          background-color: rgb(162, 11, 124);
+          background-color: #660046;
           transform: translateY(-1px);
           box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
         }
