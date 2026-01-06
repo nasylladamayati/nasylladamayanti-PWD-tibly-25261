@@ -76,7 +76,7 @@
           border: 1px solid #5b5558;
           border-radius: 6px;
           padding: 8px;
-          color:rgb(205, 41, 166);
+          color:rgb(100, 89, 97);
           font-weight: normal;
           margin: 0;
           box-sizing: border-box;
@@ -95,7 +95,7 @@
         }
 
         #contact button[type="submit"] {
-          background-color: rgb(213, 17, 108);
+          background-color: rgb(214, 26, 114);
           color:#FFFFFF;
           font-weight: 600;
         }
