@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Judul Halaman</title>
     <style>
-      #about {
+      #about,
+      #contact {
         background-color: #FFFFFF;
         border-radius: 10px;
         padding: 20px;
@@ -15,7 +16,8 @@
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       }
 
-      #about h2 {
+      #about h2,
+      #contact h2 {
         color: #003366;
         border-bottom: 2px solid #003366;
         padding-bottom: 6px;
@@ -23,7 +25,8 @@
         margin-bottom: 16px;
       }
 
-      #about p {
+      #about p,
+      #contact label {
         display: flex;
         justify-content: flex-start;
         align-items: baseline;
@@ -32,7 +35,8 @@
         border-bottom: 1px solid #e6e6e6;
       }
 
-      #about strong {
+      #about strong,
+      #contact label>span {
         min-width: 180px;
         color: #003366;
         font-weight: 600;
@@ -42,17 +46,73 @@
       }
 
       @media (max-width: 600px) {
-        #about p {
+        #about p,
+        #contact label {
             flex-direction: column;
             align-items: flex-start;
         }
 
-        #about strong {
+        #about strong,
+        #contact label>span {
             text-align: left;
             padding-right: 0;
             margin-bottom: 2px;
         }
+
+        #contact input,
+        #contact textarea,
+        #contact button {
+            width: 100%;
+        }
       }
+
+        #contact input,
+        #contact textarea {
+          flex: 1;
+          border: 1px solid #FFFFFF;
+          border-radius: 6px;
+          padding: 8px;
+          color:aqua;
+          font-weight: normal;
+          margin: 0;
+          box-sizing: border-box;
+        }
+
+        #contact button {
+          margin-top: 10px;
+          display: inline-block;
+          padding: 10px 24px;
+          font-size: 16px;
+          border-radius: 6px;
+          cursor: pointer;
+          border: none;
+          transition: all 0.3s ease;
+          margin-right: 8px;
+        }
+
+        #contact button[type="submit"] {
+          background-color: blueviolet;
+          color:#FFFFFF;
+          font-weight: 600;
+        }
+
+        #contact button[type="reset"] {
+          background-color: #003366;
+          color:#FFFFFF;
+          font-weight: 600;
+        }
+
+        #contact button[type="submit"]:hover {
+          background-color: coral;
+          transform: translateY(-1px);
+          box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        #contact button[type="reset"]:hover {
+          background-color: crimson;
+          transform: translateY(-1px);
+          box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+        }
     </style>
 </head>
  
