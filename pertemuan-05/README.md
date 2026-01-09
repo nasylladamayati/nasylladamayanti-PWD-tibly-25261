@@ -7,3 +7,4 @@ Hari ini, Selasa 9 Januari 2026, saya mempelajari:
 <ol>
 <li>copy index.html dan style.css folder pertemuan-04</li>
 <li>tombol hamburger</li>
+<li>class menu-toggle</li>
