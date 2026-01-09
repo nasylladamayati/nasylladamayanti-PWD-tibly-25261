@@ -13,3 +13,4 @@ Hari ini, Rabu 06 Desember 2026, saya mempelajari:
 <li>styling footer</li>
 <li>styling navigasi</li>
 <li>styling header mode mobile</li>
+</ol>
