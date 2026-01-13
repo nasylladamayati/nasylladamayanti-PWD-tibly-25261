@@ -12,5 +12,4 @@ Hari ini, Selasa 9 Januari 2026, saya mempelajari:
 <li>styling nav mobile</li>
 <li>styling nav menu mobile</li>
 <li>membuat file script.js</li>
-<li>onclick listener tombol hamburger</li>
 </ol>
